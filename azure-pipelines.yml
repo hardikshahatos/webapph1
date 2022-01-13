@@ -12,9 +12,7 @@ pool:
 variables:
   BuildConfiguration: 'Release'
   BuildPlatform: 'any cpu'
-  system.collectionId: '135f0b45-811c-4e54-835d-1a25e60941dd'
   system.debug: 'false'
-  system.definitionId: '1'
 
 steps:
 - script: echo Hello, world!
