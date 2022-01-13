@@ -25,9 +25,7 @@ steps:
   inputs:
     command: 'restore'
     feedsToUse: 'select'
-    feedRestore: 'projectName/feedName'
     projects: '**/*.csproj'
-    includeNuGetOrg: true
 
     
 
