@@ -25,7 +25,7 @@ steps:
   inputs:
     command: 'restore'
     feedsToUse: 'select'
-    projects: '**/*.csproj'
+    projects: '**/mvc-web-01.csproj'
 
     
 
