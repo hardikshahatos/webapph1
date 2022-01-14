@@ -6,10 +6,7 @@
 trigger:
 - master
 
-pr:
-- main
-- master/*
-- feature/*
+
 pool:
   vmImage: 'windows-latest'
 
